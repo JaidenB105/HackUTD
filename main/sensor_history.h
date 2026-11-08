@@ -11,7 +11,13 @@
 
 typedef struct {
     sensor_reading_t reading;
+    /* Time the sample was added to history; retained for compatibility. */
     int64_t timestamp_us;
+    /* Time the acquisition completed. */
+    int64_t acquired_at_us;
+    /* False identifies legacy samples that only have timestamp_us. */
+    bool acquisition_time_valid;
+    bool simulated;
 } sensor_sample_t;
 
 typedef struct {

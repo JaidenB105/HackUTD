@@ -3,6 +3,8 @@ idf_component_register(
         "main.c"
         "sensor.c"
         "faultDetect.c"
+        "sensor_history.c"
+        "diagnostic_engine.c"
         INCLUDE_DIRS "."
         PRIV_REQUIRES
         esp_adc
