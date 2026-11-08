@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jlynb\CLionProjects\HackUTD\tests\native\build\CMakeFiles\003f23c249c353a8540917d74062f46f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1515A009-745C-373E-BE0B-409F8D8A6BDC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

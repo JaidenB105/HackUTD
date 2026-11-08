@@ -1,0 +1,52 @@
+Start testing: Nov 07 23:15 Central Standard Time
+----------------------------------------------------------
+1/1 Testing: faultDetect_tests
+1/1 Test: faultDetect_tests
+Command: "C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/Debug/fault_tests.exe"
+Directory: C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build
+"faultDetect_tests" start time: Nov 07 23:15 Central Standard Time
+Output:
+----------------------------------------------------------
+[TEST] test_initial_state
+  PASS
+[TEST] test_normal_readings
+  PASS
+[TEST] test_first_timeout
+  PASS
+[TEST] test_three_timeouts
+  PASS
+[TEST] test_adc_error
+  PASS
+[TEST] test_invalid_data
+  PASS
+[TEST] test_high_temperature
+  PASS
+[TEST] test_low_temperature
+  PASS
+[TEST] test_nan_temperature
+  PASS
+[TEST] test_recovery_threshold
+  PASS
+[TEST] test_interrupted_recovery
+  PASS
+[TEST] test_mixed_failures
+  PASS
+[TEST] test_corrective_actions
+  PASS
+[TEST] test_failure_history
+  PASS
+
+================================
+Tests run:    14
+Tests passed: 14
+Tests failed: 0
+================================
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"faultDetect_tests" end time: Nov 07 23:15 Central Standard Time
+"faultDetect_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 23:15 Central Standard Time

@@ -1,0 +1,4 @@
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/fault_tests.dir
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/ZERO_CHECK.dir

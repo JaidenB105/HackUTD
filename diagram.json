@@ -1,0 +1,40 @@
+
+{
+  "version": 1,
+  "author": "ResilientSense",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-s3-devkitc-1",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-ntc-temperature-sensor",
+      "id": "ntc1",
+      "top": -100,
+      "left": 250,
+      "attrs": {
+        "temperature": "24",
+        "beta": "3950"
+      }
+    }
+  ],
+  "connections": [
+    ["ntc1:VCC", "esp:3V3", "red", []],
+    ["ntc1:GND", "esp:GND.1", "black", []],
+    ["ntc1:OUT", "esp:4", "green", []],
+
+    ["esp:TX", "$serialMonitor:RX", "", []],
+    ["esp:RX", "$serialMonitor:TX", "", []]
+  ],
+  "dependencies": {},
+
+  "serialMonitor": {
+    "display": "always",
+    "newline": "lf"
+  }
+}
+

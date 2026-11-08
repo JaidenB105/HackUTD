@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeCInformation.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeGenericSystem.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeRCInformation.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Compiler/MSVC.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Linker/MSVC-C.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Linker/MSVC.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/Windows.cmake
+C:/Program Files/JetBrains/CLion 2026.3/bin/cmake/win/x64/share/cmake-4.4/Modules/Platform/WindowsPaths.cmake
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/CMakeLists.txt
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/4.4.2/CMakeCCompiler.cmake
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/4.4.2/CMakeRCCompiler.cmake
+C:/Users/jlynb/CLionProjects/HackUTD/tests/native/build/CMakeFiles/4.4.2/CMakeSystem.cmake
